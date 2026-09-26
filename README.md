@@ -100,7 +100,7 @@ models/digit_model.keras
 Clone the repository:
 
 ```bash
-git clone https://github.com/kavyamaddisetty1917-png/Handwritten-Digit-Recognition.git
+git clone https://github.com/anupriyaerigala22-del/Handwritten-Digit-Recognition.git
 ```
 
 Go to the project directory:
@@ -191,7 +191,7 @@ This project is trained specifically on the MNIST handwritten digit dataset. The
 
 ## Author
 
-**BAPU KAVYA SRE MADDISETTY**
+**Anupriya Erigala**
 
 ## License
 
