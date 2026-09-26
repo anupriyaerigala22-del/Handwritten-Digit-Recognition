@@ -193,6 +193,6 @@ This project is trained specifically on the MNIST handwritten digit dataset. The
 
 **Anupriya Erigala**
 
-## License
+## Project 
 
-This project is created for educational and internship purposes.
+**Handwritten Digit Recognition**
